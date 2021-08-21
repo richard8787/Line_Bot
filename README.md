@@ -4,7 +4,7 @@ richard8787 for TOC Project 2020
 A Line bot based on a finite state machine
 
 
-## Featutes
+## Features
 * to check whether do the mandatory military service or not
 * take some message to remind you
 * cheer you up by sending you some image 
