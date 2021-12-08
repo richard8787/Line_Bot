@@ -18,7 +18,7 @@ The initial state is set to `user`.
 
 * user
 	* first to press `start` to use
-	* There are two mode
+	* There are three mode
 		* military mode
 			* press `military` to enter the `military`
 			* choose `female` or `male`
